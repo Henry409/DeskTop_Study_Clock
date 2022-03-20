@@ -48,4 +48,4 @@ counter to record the current interval of study.
   Date:  March 19, 2022
   This project would not have been possible (at least for a long time)
   without the tutorials from youTuber "BroCode". He has a broad range of
-  helpful videos on 
+  helpful videos on a broad range of topics.
